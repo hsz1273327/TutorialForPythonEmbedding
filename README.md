@@ -1,0 +1,2 @@
+# TutorialForPythonEmbedding
+使用python做嵌入式开发的攻略
